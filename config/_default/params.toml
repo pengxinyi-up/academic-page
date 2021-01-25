@@ -100,7 +100,7 @@ address = {street = "麓山南路", city = "长沙", region = "CA", postcode = "
 coordinates = {latitude = "28.145198", longitude = "113.000139"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "中南大学新校区信息大楼231"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
