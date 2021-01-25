@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests研究方向:
+interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
