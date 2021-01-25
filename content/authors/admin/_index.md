@@ -17,13 +17,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests研究兴趣:
+interests:
 - 人工智能
 - SLAM
 - 自动驾驶
 
 # Education to show in About widget
-教育经历:
+Education:
   courses:
   - course: 电子信息-硕士
     institution: 中南大学（双一流A类，985）
