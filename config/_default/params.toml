@@ -97,7 +97,7 @@ address = {street = "麓山南路", city = "长沙", region = "CA", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "28.145198", longitude = "113.000139"}
+coordinates = {latitude = "28.152784", longitude = "112.949583"}
 
 # Directions for visitors to locate you.
 directions = "中南大学新校区信息大楼231"
