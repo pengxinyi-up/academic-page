@@ -93,7 +93,7 @@ phone = "18339644366"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "麓山南路", city = "长沙", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "麓山南路932号", city = "长沙", region = "岳麓区", postcode = "410083", country = "中国", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
