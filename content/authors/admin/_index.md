@@ -6,12 +6,12 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 电子信息硕士
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: 中南大学
+  url: http://www.csu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
