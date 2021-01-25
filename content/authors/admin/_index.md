@@ -6,7 +6,7 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 电子信息硕士
+role: 电子信息（硕士在读）
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 电子信息-硕士
+    institution: 中南大学（双一流A类，985）
+    year: 2023
+  - course: 自动化-工学学士
+    institution: 河南大学（双一流）
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
