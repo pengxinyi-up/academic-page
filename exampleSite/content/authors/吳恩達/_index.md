@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- 人工智能
 - Computational Linguistics
 - Information Retrieval
 
