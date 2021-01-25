@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 人工智能
 - SLAM
-- Information Retrieval
+- 自动驾驶
 
 # Education to show in About widget
 education:
@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pengxinyi-up
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -61,12 +61,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pengxinyi_up@163.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
+彭心一是中南大学自动化学院电子信息专业硕士在读学生，
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
