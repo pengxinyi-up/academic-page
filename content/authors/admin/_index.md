@@ -67,7 +67,7 @@ email: "pengxinyi_up@163.com"
 highlight_name: false
 ---
 
-彭心一是中南大学自动化学院电子信息专业硕士在读学生， His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+\t彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
