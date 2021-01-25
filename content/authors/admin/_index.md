@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 彭心一
+title: 彭心一 \n pengxinyi
 
 # Is this the primary user of the site?
 superuser: true
