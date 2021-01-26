@@ -59,13 +59,13 @@ social:
   link: https://blog.csdn.net/qq_37372155?spm=1000.2115.3001.5343
 - icon: weixin
   icon_pack: fab
-  link: nan
+  link: https://wx.qq.com/
 - icon: qq
   icon_pack: fab
-  link: nan
+  link: https://im.qq.com/
 - icon: weibo
   icon_pack: fab
-  link: nan
+  link: https://weibo.com/
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
