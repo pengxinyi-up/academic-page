@@ -76,4 +76,4 @@ highlight_name: true
 
 &nbsp &nbsp &nbsp &nbsp 他喜欢唱、跳、Rap、篮球
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
