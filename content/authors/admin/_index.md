@@ -6,7 +6,7 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 电子信息 &nbsp （硕士在读）
+role: 电子信息（硕士在读）
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,7 +53,7 @@ social:
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
 - icon: copyright
-  icon_pack: fab
+  icon_pack: fas
   link: https://blog.csdn.net/qq_37372155?spm=1000.2115.3001.5343
 
 # Link to a PDF of your resume/CV.
@@ -67,11 +67,11 @@ social:
 email: "pengxinyi_up@163.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-&emsp彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
+&nbsp 彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
 
-&emsp他喜欢唱、跳、Rap
+&nbsp 他喜欢唱、跳、Rap
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
