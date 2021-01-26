@@ -6,23 +6,23 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 电子信息(硕士在读)
+role: 中南大学电子信息专业硕士在读
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 中南大学
-  url: http://www.csu.edu.cn/
-- name: CSDN博客 #没用
+- name: CSDN博客 
   url: https://blog.csdn.net/qq_37372155?spm=1000.2115.3001.5343
+- name: GitHub平台
+  url: https://github.com/pengxinyi-up
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- 人工智能
-- SLAM
+- 机器人定位、建图(SLAM)
 - 自动驾驶
+- 人工智能
 
 # Education to show in About widget
 education:
@@ -76,4 +76,4 @@ highlight_name: true
 
 &nbsp &nbsp &nbsp &nbsp 他喜欢唱、跳、Rap、篮球
 
-{{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历.pdf{{< /staticref >}}.
