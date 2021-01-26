@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: 最近论文
+subtitle: 尚无
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,13 +19,13 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    author: "作者"
+    category: "类型"
+    tag: "标签"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: ""
+    publication_type: "出版类型"
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
