@@ -37,14 +37,14 @@ item:
   description: 2017-2018学年，于河南大学计算机与信息工程学院学生会担任学习部部长
   organization: 河南大学
   organization_url: https://www.edx.org
-  title: 2017-2018学年优秀学生干部 | 河南大学
+  title: 2017-2018学年优秀学生干部 
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
   description: ""
-  organization: DataCamp
+  organization: 河南大学
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  title: 连续三年获评国家励志奖学金 
   url: ""
 ---
