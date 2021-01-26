@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: "01-09-2019"
   date_start: "28-08-2019"
-  description: "带队参赛，荣获双足竞速组国家级一等奖"
+  description: 带队参赛，荣获双足竞速组国家级一等奖
   organization: 青岛
   organization_url: https://www.coursera.org
   title: 第20届中国机器人大赛 | 国家级一等奖
@@ -34,10 +34,10 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  description: 2017-2018学年，于河南大学计算机与信息工程学院学生会担任学习部部长
+  organization: 河南大学
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: 2017-2018学年优秀学生干部 | 河南大学
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
