@@ -6,7 +6,7 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 中南大学电子信息专业硕士在读
+role: 中南大学|电子信息专业
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: 电子信息-硕士
+  - course: 硕士,电子信息
     institution: 中南大学（双一流A类，985）
     year: 2023
-  - course: 自动化-学士
+  - course: 学士,自动化
     institution: 河南大学（双一流）
     year: 2020
 
