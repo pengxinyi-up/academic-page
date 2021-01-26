@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: 技能
-subtitle: 副标题
+subtitle: 学习和健身是成本最低的升值方式
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -28,10 +28,18 @@ feature:
   icon: robot
   icon_pack: fas
   name: 机器人操作系统ROS
-- description: 学习和健身是成本最低的升值方式
-  icon: battery-full
+- description: 10%
+  icon: basketball-ball
   icon_pack: fas
-  name: 天天向上
+  name: 篮球
+- description: 10%
+  icon: guitar
+  icon_pack: fas
+  name: 吉他
+- description: 10%
+  icon: shuttlecock
+  icon_pack: fas
+  name: 羽毛球
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
