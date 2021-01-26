@@ -9,25 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+title: 技能
+subtitle: 副标题
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 掌握C、C++、matlab等编程语言
+  icon: laptop-code
+  icon_pack: fas
+  name: 编程语言
+- description: 熟悉Linux常用终端命令，掌握了CMake工程构建方法、Catkin工作空间管理方法
+  icon: linux
   icon_pack: fab
-  name: C++
-- description: 100%
-  icon: chart-line
+  name: Linux系统
+- description: 熟悉基于ROS的机器人开发方法，包括catkin_ws、qt、rviz、moveIt!的使用 
+  icon: robot
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: 机器人操作系统ROS
+- description: 学习和健身是成本最低的升值方式
+  icon: battery-full
   icon_pack: fas
-  name: Photography
+  name: 天天向上
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
