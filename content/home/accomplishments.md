@@ -24,12 +24,12 @@ date_format: Jan 2021
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org
-  date_end: "2019-09-01"
-  date_start: "2019-08-28"
-  description: "带队参赛，荣获双足竞速组“国家级一等奖”"
+  date_end: "01-09-2019"
+  date_start: "28-08-2019"
+  description: "带队参赛，荣获双足竞速组国家级一等奖"
   organization: 青岛
   organization_url: https://www.coursera.org
-  title: 第20届中国机器人大赛
+  title: 第20届中国机器人大赛 | 国家级一等奖
   url: "http://crc.drct-caa.org.cn/index.php/race?catid=3"
 - certificate_url: https://www.edx.org
   date_end: ""
