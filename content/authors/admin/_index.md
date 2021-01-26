@@ -6,7 +6,7 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 电子信息（硕士在读）
+role: 电子信息(硕士在读)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,8 +70,8 @@ email: "pengxinyi_up@163.com"
 highlight_name: true
 ---
 
-&nbsp 彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
+&nbsp    彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
 
-&nbsp 他喜欢唱、跳、Rap
+&nbsp    他喜欢唱、跳、Rap
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
