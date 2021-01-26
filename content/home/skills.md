@@ -37,9 +37,9 @@ feature:
   icon_pack: fas
   name: 吉他
 - description: 10%
-  icon: shuttlecock
+  icon: table-tennis
   icon_pack: fas
-  name: 羽毛球
+  name: 乒乓球
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
