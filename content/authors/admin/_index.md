@@ -6,7 +6,7 @@ title: 彭心一
 superuser: true
 
 # Role/position/tagline
-role: 电子信息（硕士在读）
+role: 电子信息 &nbsp （硕士在读）
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,18 +40,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/pengxinyi-up
-- icon: linkedin
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
+- icon: copyright
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://blog.csdn.net/qq_37372155?spm=1000.2115.3001.5343
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,8 +70,8 @@ email: "pengxinyi_up@163.com"
 highlight_name: false
 ---
 
-  彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+&emsp彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+&emsp他喜欢唱、跳、Rap
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
