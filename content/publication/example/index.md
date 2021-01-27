@@ -6,18 +6,20 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- 彭心二
+- 黄村河
+- 周嘉琪
 
 # Author notes (optional)
 author_notes:
 - "队长"
 - "队员"
+- "队员"
 
-date: "2013-07-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -56,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**彭心一**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Note: [**河南大学参赛队伍**](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/2019robot.jpg)'
   focal_point: ""
   preview_only: false
 
