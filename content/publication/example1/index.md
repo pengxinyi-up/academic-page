@@ -1,5 +1,5 @@
 ---
-title: "2019中国机器人大赛 | 一等奖"
+title: "2019中国机器人大赛 | 三等奖"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,7 +7,7 @@ title: "2019中国机器人大赛 | 一等奖"
 authors:
 - admin
 - 王亚杰
-- 周嘉琪
+- 曹洪涛
 
 # Author notes (optional)
 author_notes:
