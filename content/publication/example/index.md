@@ -21,29 +21,18 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# # Publication type.
+# # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# # 7 = Thesis; 8 = Patent
+# publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *青岛*
+# # Publication name and optional abbreviated publication name.
+# publication: In *青岛*
 publication_short: In *青岛*
 
-abstract: |2-
-    * 2018.03   &nbsp 第九届蓝桥杯单片机设计与开发组		     &nbsp 一等奖(省级/个人赛)
-    * 2018.04   &nbsp 河南大学挑战杯科技发明制作作品竞赛     &nbsp 二等奖(校级/团队赛)
-    * 2018.05   &nbsp 第五届河南大学大学生数学建模竞赛       &nbsp 二等奖(校级/负责编程)
-    * 2018.05   &nbsp 挑战杯全国科技创新大赛(技术创业协会)   &nbsp 一等奖(国家级/团队赛)
-    * 2018.08   &nbsp 河南省第五届大学生机器人竞赛创意组     &nbsp 二等奖(省级/负责硬件)
-    * 2018.12   &nbsp 十一届河南大学学佳澳杯程序设计大赛     &nbsp 一等奖(校级/个人赛)
-    * 2019.01   &nbsp 第五届河南大学电子组装与设计大赛       &nbsp 二等奖(校级/个人赛)
-    * 2019.03   &nbsp 第十届蓝桥杯嵌入式设计与开发组         &nbsp 二等奖(省级/个人赛)
-    * 2019.05   &nbsp 河南省第六届大学生机器人竞赛双足机器人 &nbsp 二等奖(省级/任队长)
-    * 2019.05   &nbsp 河南大学第五届大学生智能汽车竞赛       &nbsp 一等奖(校级/任队长)
-    * 2019.07   &nbsp 华北赛区第十四届“恩智浦”智能汽车竞赛   &nbsp 三等奖(赛区/任队长)
-    * 2019.08   &nbsp 2019第20届中国机器人大赛			       &nbsp 一等奖(国家级/任队长)
+abstract: 中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。
+
 
 # Summary. An optional shortened abstract.
 summary: 中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。
@@ -80,14 +69,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- china_robot
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: china_robot
 ---
 
 <!-- {{% callout note %}}

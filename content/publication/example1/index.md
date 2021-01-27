@@ -21,14 +21,14 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# # Publication type.
+# # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# # 7 = Thesis; 8 = Patent
+# publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *天津*
+# # Publication name and optional abbreviated publication name.
+# publication: In *天津*
 publication_short: In *天津*
 
 abstract: 为加强大学生实践、创新能力和团队精神的培养，促进高等教育教学改革，受教育部高等教育司委托，由教育部高等学校自动化专业教学指导分委员会（以下简称自动化分教指委）主办全国大学生智能汽车竞赛。该竞赛是以智能汽车为研究对象的创意性科技竞赛，是面向全国大学生的一种具有探索性工程实践活动，是教育部倡导的大学生科技竞赛之一。该竞赛以“立足培养，重在参与，鼓励探索，追求卓越”为指导思想，旨在促进高等学校素质教育，培养大学生的综合知识运用能力、基本工程实践能力和创新意识，激发大学生从事科学研究与探索的兴趣和潜能，倡导理论联系实际、求真务实的学风和团队协作的人文精神，为优秀人才的脱颖而出创造条件。
