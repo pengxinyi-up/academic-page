@@ -13,7 +13,6 @@ weight: 50
 title: 已获荣誉
 subtitle: 尚无
 
-![tn](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png "系统结构") 
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -58,3 +57,4 @@ item:
   title: 河南大学奖学金 
   url: ""
 ---
+![tn](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png "系统结构") 
