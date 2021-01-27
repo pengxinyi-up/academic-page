@@ -6,7 +6,7 @@ title: "2019中国机器人大赛 | 一等奖"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- 黄存河
+- 王亚杰
 - 周嘉琪
 
 # Author notes (optional)
