@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 最近的报告
-subtitle: 组会安排上，以后可以写参加的会议
+title: 空白板块吧
+subtitle: 这里本来是出版物检索的地方
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [检索出版物](./publication/).
 {{% /callout %}}

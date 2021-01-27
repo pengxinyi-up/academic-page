@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: '最近的报告'
+subtitle: "组会安排上"
 
 content:
   # Page type to display. E.g. post, event, publication...
