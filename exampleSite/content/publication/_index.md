@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 实践经历
 cms_exclude: true
 
 # View.

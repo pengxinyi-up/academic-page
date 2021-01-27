@@ -34,7 +34,7 @@ authors:
 
 tags:
 - SLAM
-- 开源
+- SLAM
 
 categories:
 - Demo

@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 空白板块吧
-subtitle: 这里本来是出版物检索的地方
+title: 检索
+subtitle: "更多实践经历检索"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -39,5 +39,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [检索竞赛](./publication/).
+快速发现相关内容&#x1F449 [在所有实践经历中检索](./publication/).
 {{% /callout %}}
