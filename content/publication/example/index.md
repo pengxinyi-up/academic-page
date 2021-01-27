@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "2019中国机器人大赛"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,13 +28,13 @@ publishDate: "2019-09-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *青岛*
+publication_short: In *青岛*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖带队参赛，荣获双足竞速组国家级一等奖.带队参赛，荣获双足竞速组国家级一等奖.带队参赛，荣获双足竞速组国家级一等奖.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 带队参赛，荣获双足竞速组国家级一等奖。
 
 tags: []
 
@@ -59,7 +59,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Note: [**河南大学参赛队伍**](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/2019robot.jpg)'
-  focal_point: ""
+  focal_point: "这是啥"
   preview_only: false
 
 # Associated Projects (optional).
