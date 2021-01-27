@@ -15,21 +15,21 @@ author_notes:
 - "三等奖"
 - "一等奖"
 
-date: "2019-09-01T00:00:00Z"
-doi: ""
+# date: "2019-09-01T00:00:00Z"
+# doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2019-09-01T00:00:00Z"
+# # Schedule page publish date (NOT publication's date).
+# publishDate: "2019-09-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# # Publication type.
+# # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# # 7 = Thesis; 8 = Patent
+# publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *青岛*
-publication_short: In *青岛*
+# # Publication name and optional abbreviated publication name.
+# publication: In *青岛*
+# publication_short: In *青岛*
 
 abstract: |2-
     * 2018.03   &nbsp &nbsp 第九届蓝桥杯单片机设计与开发组		     &nbsp &nbsp 一等奖(省级/个人赛)
