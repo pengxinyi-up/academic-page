@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
   date_end: "2019-09-01"
   date_start: "2019-08-28"
   description: 带队参赛，荣获双足竞速组国家级一等奖
