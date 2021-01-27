@@ -7,7 +7,7 @@ widget: tag_cloud
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 20
 
 title: 受欢迎的话题
 subtitle: tags里面的关键词，大小与出现次数有关
