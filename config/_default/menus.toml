@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "出版物"
+  name = "竞赛"
   url = "#featured"
   weight = 50
 
