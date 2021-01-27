@@ -38,7 +38,7 @@ experience:
     company: 中南大学自动化学院电子信息2002班
     company_url: "https://soa.csu.edu.cn/"
     location: 长沙
-    date_start: '2020-09-01'
-    date_end: '2021-06-31'
+    date_start: "2020-09-01"
+    date_end: "2021-06-31"
     description: 班级活动策划、组织，消息传达。
 ---
