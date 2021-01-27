@@ -1,35 +1,35 @@
 ---
-title: "&#x1F449点我查看更多竞赛"
+title: "2019中国机器人大赛 | 一等奖"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 2019全国机器人大赛
-- 十三届"恩智浦"智能汽车竞赛
-- 第九届蓝桥杯
+- author
+- 黄村河
+- 周佳琪
 
 # Author notes (optional)
 author_notes:
-- "一等奖"
-- "三等奖"
-- "一等奖"
+- "队长"
+- "队员"
+- "队员"
 
-# date: "2019-09-01T00:00:00Z"
-# doi: ""
+date: "2019-09-01T00:00:00Z"
+doi: ""
 
-# # Schedule page publish date (NOT publication's date).
-# publishDate: "2019-09-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-09-01T00:00:00Z"
 
-# # Publication type.
-# # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# # 7 = Thesis; 8 = Patent
-# publication_types: ["1"]
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
-# # Publication name and optional abbreviated publication name.
-# publication: In *青岛*
-# publication_short: In *青岛*
+# Publication name and optional abbreviated publication name.
+publication: In *青岛*
+publication_short: In *青岛*
 
 abstract: |2-
     * 2018.03   &nbsp 第九届蓝桥杯单片机设计与开发组		     &nbsp 一等奖(省级/个人赛)
@@ -46,9 +46,9 @@ abstract: |2-
     * 2019.08   &nbsp 2019第20届中国机器人大赛			       &nbsp 一等奖(国家级/任队长)
 
 # Summary. An optional shortened abstract.
-summary: 以赛促学，获得各类国家级、省级、校级学科竞赛奖项。
+summary: 中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。
 
-tags: [竞赛]
+tags: [机器人]
 
 # Display this page in the Featured widget?
 featured: true

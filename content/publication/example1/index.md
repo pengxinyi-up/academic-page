@@ -1,54 +1,42 @@
 ---
-title: "&#x1F449点我查看更多竞赛"
+title: "十四届"恩智浦"智能汽车竞赛 | 三等奖"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 2019全国机器人大赛
-- 十三届"恩智浦"智能汽车竞赛
-- 第九届蓝桥杯
+- author
+- 王亚杰
+- 曹洪涛
 
 # Author notes (optional)
 author_notes:
-- "一等奖"
-- "三等奖"
-- "一等奖"
+- "队长"
+- "队友"
+- "队友"
 
-# date: "2019-09-01T00:00:00Z"
-# doi: ""
+date: "2019-07-01T00:00:00Z"
+doi: ""
 
-# # Schedule page publish date (NOT publication's date).
-# publishDate: "2019-09-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-07-01T00:00:00Z"
 
-# # Publication type.
-# # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# # 7 = Thesis; 8 = Patent
-# publication_types: ["1"]
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
-# # Publication name and optional abbreviated publication name.
-# publication: In *青岛*
-# publication_short: In *青岛*
+# Publication name and optional abbreviated publication name.
+publication: In *天津*
+publication_short: In *天津*
 
-abstract: |2-
-    * 2018.03   &nbsp 第九届蓝桥杯单片机设计与开发组		     &nbsp 一等奖(省级/个人赛)
-    * 2018.04   &nbsp 河南大学挑战杯科技发明制作作品竞赛     &nbsp 二等奖(校级/团队赛)
-    * 2018.05   &nbsp 第五届河南大学大学生数学建模竞赛       &nbsp 二等奖(校级/负责编程)
-    * 2018.05   &nbsp 挑战杯全国科技创新大赛(技术创业协会)   &nbsp 一等奖(国家级/团队赛)
-    * 2018.08   &nbsp 河南省第五届大学生机器人竞赛创意组     &nbsp 二等奖(省级/负责硬件)
-    * 2018.12   &nbsp 十一届河南大学学佳澳杯程序设计大赛     &nbsp 一等奖(校级/个人赛)
-    * 2019.01   &nbsp 第五届河南大学电子组装与设计大赛       &nbsp 二等奖(校级/个人赛)
-    * 2019.03   &nbsp 第十届蓝桥杯嵌入式设计与开发组         &nbsp 二等奖(省级/个人赛)
-    * 2019.05   &nbsp 河南省第六届大学生机器人竞赛双足机器人 &nbsp 二等奖(省级/任队长)
-    * 2019.05   &nbsp 河南大学第五届大学生智能汽车竞赛       &nbsp 一等奖(校级/任队长)
-    * 2019.07   &nbsp 华北赛区第十四届“恩智浦”智能汽车竞赛   &nbsp 三等奖(赛区/任队长)
-    * 2019.08   &nbsp 2019第20届中国机器人大赛			       &nbsp 一等奖(国家级/任队长)
+abstract: 为加强大学生实践、创新能力和团队精神的培养，促进高等教育教学改革，受教育部高等教育司委托，由教育部高等学校自动化专业教学指导分委员会（以下简称自动化分教指委）主办全国大学生智能汽车竞赛。该竞赛是以智能汽车为研究对象的创意性科技竞赛，是面向全国大学生的一种具有探索性工程实践活动，是教育部倡导的大学生科技竞赛之一。该竞赛以“立足培养，重在参与，鼓励探索，追求卓越”为指导思想，旨在促进高等学校素质教育，培养大学生的综合知识运用能力、基本工程实践能力和创新意识，激发大学生从事科学研究与探索的兴趣和潜能，倡导理论联系实际、求真务实的学风和团队协作的人文精神，为优秀人才的脱颖而出创造条件。
 
 # Summary. An optional shortened abstract.
-summary: 以赛促学，获得各类国家级、省级、校级学科竞赛奖项。
+summary: 担任智能车实验室负责人，带队双车组赢得校赛并参加第十四届华北赛区“恩智浦”智能汽车竞赛再次获奖。
 
-tags: [竞赛]
+tags: [智能车]
 
 # Display this page in the Featured widget?
 featured: true
@@ -103,5 +91,3 @@ Supplementary notes can be added here, including [code, math, and images](https:
 ![example](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png "我的补充") 
 
 ![example](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png "系统结构") 
-
-中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。

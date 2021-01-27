@@ -82,6 +82,6 @@ highlight_name: true
 
 &nbsp &nbsp &nbsp &nbsp 彭心一是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
 
-&nbsp &nbsp &nbsp &nbsp 他喜欢唱、跳、Rap、篮球
+&nbsp &nbsp &nbsp &nbsp &#x1F449他喜欢唱、跳、Rap、篮球
 
 {{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历.pdf{{< /staticref >}}.

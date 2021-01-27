@@ -10,13 +10,13 @@ headless: true
 weight: 80
 
 title: 学科竞赛
-subtitle: "参与过的学科竞赛"
+subtitle: "以赛促学，获得各类国家级、省级、校级学科竞赛奖项"
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Filter on criteria
   filters:
     author: ""
