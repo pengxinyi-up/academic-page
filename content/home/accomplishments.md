@@ -15,7 +15,7 @@ subtitle: 尚无
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2021
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,8 +24,8 @@ date_format: Jan 2021
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org
-  date_end: "01-09-2019"
-  date_start: "28-08-2019"
+  date_end: ""
+  date_start: "2018-10-01"
   description: 带队参赛，荣获双足竞速组国家级一等奖
   organization: 青岛
   organization_url: https://www.coursera.org
