@@ -82,8 +82,8 @@ highlight_name: true
 
 &nbsp &nbsp &nbsp &nbsp 彭心一，中共党员，是中南大学自动化学院电子信息专业硕士在读学生，他的研究领域包括机器人定位建图（SLAM）、自动驾驶、语义地图。 
 
-&nbsp &nbsp &nbsp &nbsp 本科就读于河南大学计算机与信息工程学院自动化专业，四年来，，，，，，以优异的成绩绩点3.65/4，综合排名：3/102，推荐免试到中南大学继续攻读研究生。，，，，，
+&nbsp &nbsp &nbsp &nbsp 本科就读于河南大学计算机与信息工程学院自动化专业，四年来，，，，，，以优异的成绩绩点3.65/4，综合排名：3/102，**推荐免试**到中南大学继续攻读研究生。，，，，，
 
 &nbsp &nbsp &nbsp &nbsp &#x1F449长期从事学生服务工作，使我具有一定的组织力、沟通力、执行力；团队负责人和丰富的竞赛实践经验使我具有较强的团队合作、自主学习能力；农村出身，能吃苦耐劳，有上进心，打小就有志于科研工作
 
-{{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历.pdf{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} &nbsp &nbsp &nbsp &nbsp 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历.pdf{{< /staticref >}}.
