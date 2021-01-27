@@ -24,15 +24,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
-  date_end: "2019-09-01"
-  date_start: "2019-08-28"
-  description: 带队参赛，荣获双足竞速组国家级一等奖
-  organization: 青岛
-  organization_url: ""
-  title: 第20届中国机器人大赛 | 国家级一等奖
-  url: "http://crc.drct-caa.org.cn/index.php/race?catid=3"
-
 - certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png
   date_end: "2018-06-01"
   date_start: "2017-09-01"
