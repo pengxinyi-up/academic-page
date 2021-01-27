@@ -13,6 +13,8 @@ weight: 50
 title: 已获荣誉
 subtitle: 尚无
 
+![tn](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png "系统结构") 
+
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
