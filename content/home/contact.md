@@ -4,7 +4,7 @@
 widget: contact
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 130
@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: flase
+  autolink: true
   
   # Email form provider
   form:
