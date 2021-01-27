@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 受欢迎的话题
-subtitle: tags里面的关键词，大小与出现次数有关
+title: 个性标签
+subtitle: ""
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
