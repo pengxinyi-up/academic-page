@@ -30,10 +30,10 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- 彭心二
 
 tags:
-- Academic
+- SLAM
 - 开源
 
 categories:

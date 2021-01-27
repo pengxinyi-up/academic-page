@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: 近期文章
+subtitle: 尚无
 
 content:
   # Page type to display. E.g. post, talk, publication...

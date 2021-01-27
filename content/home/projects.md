@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: 项目
+subtitle: 尚无
 
 content:
   # Page type to display. E.g. project.

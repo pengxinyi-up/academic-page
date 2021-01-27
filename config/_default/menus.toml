@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "会谈"
+  name = "报告"
   url = "#talks"
   weight = 40
 

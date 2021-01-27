@@ -16,7 +16,7 @@ organizations:
   url: https://github.com/pengxinyi-up
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的研究方向包括：机器人感知、规划、控制；SLAM。
 
 # Interests to show in About widget
 interests:
