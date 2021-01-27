@@ -51,4 +51,3 @@ item:
   title: 河南大学奖学金 
   url: ""
 ---
-![example](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png "系统结构") 

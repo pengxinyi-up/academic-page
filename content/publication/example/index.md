@@ -1,5 +1,5 @@
 ---
-title: "点我查看更多竞赛"
+title: "&#x1F449点我查看更多竞赛"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -101,5 +101,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 ![example](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png "我的补充") 
+
+![example](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png "系统结构") 
 
 中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。
