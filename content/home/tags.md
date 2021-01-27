@@ -10,7 +10,7 @@ headless: true
 weight: 120
 
 title: 受欢迎的话题
-subtitle: ''
+subtitle: tags里面的关键词，大小与出现次数有关
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
