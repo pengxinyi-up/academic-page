@@ -84,4 +84,8 @@ highlight_name: true
 
 &nbsp &nbsp &nbsp &nbsp &#x1F449他喜欢唱、跳、Rap、篮球
 
+长期从事学生服务工作，使我具有一定的组织力、沟通力、执行力
+团队负责人和丰富的竞赛实践经验使我具有较强的团队合作、自主学习能力
+农村出身，能吃苦耐劳，有上进心，打小就有志于科研工作
+
 {{< icon name="download" pack="fas" >}} 下载他的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历.pdf{{< /staticref >}}.
