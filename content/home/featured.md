@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 代表竞赛
+title: 学科竞赛
 subtitle: "参与过的学科竞赛"
 
 content:
