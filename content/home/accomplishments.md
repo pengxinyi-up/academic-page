@@ -40,7 +40,7 @@ item:
   title: 2017-2018学年优秀学生干部 
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: "2019-6-01"
+  date_end: "2019-06-01"
   date_start: "2016-09-01"
   description: ""
   organization: 河南大学
@@ -48,7 +48,7 @@ item:
   title: 连续三年获评国家励志奖学金 
   url: ""
 - certificate_url: https://www.datacamp.com
-  date_end: "2020-6-01"
+  date_end: "2020-06-01"
   date_start: "2019-09-01"
   description: ""
   organization: 河南大学
