@@ -76,9 +76,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
 
----
 title: "点我查看更多竞赛"
 
 # Authors
