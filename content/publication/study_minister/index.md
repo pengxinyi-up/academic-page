@@ -35,7 +35,7 @@ summary: 大一利用寒暑假等课余时间，在河南大学自主创新实�
 tags: [学生干部]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
