@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In *青岛*
 publication_short: In *青岛*
 
-abstract: 带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖。带队参赛，荣获双足竞速组国家级一等奖带队参赛，荣获双足竞速组国家级一等奖.带队参赛，荣获双足竞速组国家级一等奖.带队参赛，荣获双足竞速组国家级一等奖.
+abstract: 中国机器人大赛（CHINA ROBOT COMPETITION）是中国影响力最大、综合技术水平最高的机器人学科竞赛之一，是我国最具影响力、最权威的机器人技术大赛、学术大会和科普盛会，是当今中国智能制造技术和高端人才的重大交流活动。
 
 # Summary. An optional shortened abstract.
 summary: 带队参赛，荣获双足竞速组国家级一等奖。
@@ -78,13 +78,13 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
