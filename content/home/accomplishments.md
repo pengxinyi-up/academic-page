@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 已获荣誉
-subtitle: 尚无
+subtitle: 学习和工作方面所获荣誉
 
 
 # Date format
@@ -29,31 +29,34 @@ item:
   date_start: "2019-08-28"
   description: 带队参赛，荣获双足竞速组国家级一等奖
   organization: 青岛
-  organization_url: https://www.coursera.org
+  organization_url: ""
   title: 第20届中国机器人大赛 | 国家级一等奖
   url: "http://crc.drct-caa.org.cn/index.php/race?catid=3"
-- certificate_url: https://www.edx.org
+
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png
   date_end: "2018-06-01"
   date_start: "2017-09-01"
   description: 2017-2018学年，于河南大学计算机与信息工程学院学生会担任学习部部长
   organization: 河南大学
-  organization_url: https://www.edx.org
-  title: 2017-2018学年优秀学生干部 
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  organization_url: "http://henu.edu.cn/"
+  title: 优秀学生干部 
+  url: ""
+
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png
   date_end: "2019-06-01"
   date_start: "2016-09-01"
-  description: ""
+  description: "大一至大三，连续三年获评国家励志奖学金"
   organization: 河南大学
-  organization_url: https://www.datacamp.com
-  title: 连续三年获评国家励志奖学金 
-  url: ""
-- certificate_url: https://www.datacamp.com
+  organization_url: "http://henu.edu.cn/"
+  title: 国家励志奖学金 
+  url: "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin"
+
+- certificate_url: "https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png"
   date_end: "2020-06-01"
   date_start: "2019-09-01"
-  description: ""
+  description: "大四获评河南大学奖学金"
   organization: 河南大学
-  organization_url: https://www.datacamp.com
+  organization_url: "http://henu.edu.cn/"
   title: 河南大学奖学金 
   url: ""
 ---

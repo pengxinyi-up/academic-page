@@ -14,7 +14,7 @@ subtitle: 在校任职学生干部经历
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2021
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
