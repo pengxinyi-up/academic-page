@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: ""
+title: 代表竞赛
+subtitle: "参与过的学科竞赛"
 
 content:
   # Page type to display. E.g. post, talk, publication...
