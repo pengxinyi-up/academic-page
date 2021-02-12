@@ -42,12 +42,12 @@ item:
   title: 国家励志奖学金 
   url: "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin"
 
-- certificate_url: "https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png"
-  date_end: "2020-06-01"
-  date_start: "2019-09-01"
-  description: "大四获评河南大学奖学金"
-  organization: 河南大学
-  organization_url: "http://henu.edu.cn/"
-  title: 河南大学奖学金 
-  url: ""
+# - certificate_url: "https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png"
+#   date_end: "2020-06-01"
+#   date_start: "2019-09-01"
+#   description: "大四获评河南大学奖学金"
+#   organization: 河南大学
+#   organization_url: "http://henu.edu.cn/"
+#   title: 河南大学奖学金 
+#   url: ""
 ---
