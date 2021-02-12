@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 技能
+title: 技能|Skills
 subtitle: 学习和健身是成本最低的升值方式
 
 # Showcase personal skills or business features.
