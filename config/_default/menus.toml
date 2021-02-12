@@ -36,6 +36,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
-    name = "B站"
-    url = "https://space.bilibili.com/92855780"
+    name = "CSDN博客"
+    url = "https://blog.csdn.net/qq_37372155?spm=1000.2115.3001.5343"
     weight = 70
