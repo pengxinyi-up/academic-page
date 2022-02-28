@@ -20,7 +20,7 @@ bio: 我的研究方向包括：机器人感知、规划、控制；SLAM。
 
 # Interests to show in About widget
 interests:
-- 定位建图(SLAM)
+- 定位建图
 - 自动驾驶
 - 人工智能
 
