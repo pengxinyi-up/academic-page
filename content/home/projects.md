@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: 机器人呢
+  - name: 机器人
     tag: 机器人
   - name: Other
     tag: SLAM
