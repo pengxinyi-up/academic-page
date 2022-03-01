@@ -33,13 +33,13 @@ feature:
   icon_pack: fas
   name: vSLAM
 - description: 
-  icon: 
+  icon: laptop-medical
   icon_pack: fas
-  name: 
+  name: 待学习
 - description: 
-  icon: 
+  icon: suse
   icon_pack: fas
-  name: 
+  name: 待学习
 - description: 不会运球，不会投球
   icon: basketball-ball
   icon_pack: fas
