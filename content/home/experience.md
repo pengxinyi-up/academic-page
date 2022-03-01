@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: 工作经历
-subtitle: 在校任职学生干部经历
+subtitle: 暂且写在校任职学生干部经历
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
