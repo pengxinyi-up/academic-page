@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
   date_end: "2018-06-01"
   date_start: "2017-09-01"
   description: 2017-2018学年，于河南大学计算机与信息工程学院学生会担任学习部部长
@@ -33,13 +33,22 @@ item:
   title: 优秀学生干部 
   url: ""
 
-- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
+  date_end: "2021-09-01"
+  date_start: "2020-09-01"
+  description: 研一获评华为优秀学生奖，和一等学业金学金
+  organization: 中南大学
+  organization_url: "http://csu.edu.cn/"
+  title: 华为优秀学生奖
+  url: "http://award.csu.edu.cn/zdnr.aspx?id=2AD1F355D0F5431897FE96CA871C197A"
+
+- certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
   date_end: "2019-06-01"
   date_start: "2016-09-01"
-  description: "大一至大三，连续三年获评国家励志奖学金"
+  description: "大一至大三，连续三年获评国家励志奖学金，大四获评河南大学奖学金"
   organization: 河南大学
   organization_url: "http://henu.edu.cn/"
-  title: 国家励志奖学金 
+  title: 国家励志奖学金
   url: "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin"
 
 # - certificate_url: "https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/example.png"
