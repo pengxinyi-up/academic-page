@@ -43,5 +43,5 @@ design:
 {{% /callout %}}
 
 {{% callout note %}}
-快速发现相关内容&#x1F449 [在所有其它经历中检索](./talks/).
+快速发现相关内容&#x1F449 [在所有其它经历中检索](./event/).
 {{% /callout %}}
