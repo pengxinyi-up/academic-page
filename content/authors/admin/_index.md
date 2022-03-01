@@ -16,7 +16,7 @@ organizations:
   url: http://henu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究方向包括：机器人感知、规划、控制；SLAM。
+bio: 我的研究方向包括：SLAM,机器人。
 
 # Interests to show in About widget
 interests:

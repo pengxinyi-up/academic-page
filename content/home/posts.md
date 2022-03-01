@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: 近期文章
-subtitle: 尚无
+subtitle: 硕士期间研究课题，轻量的物体级数据关联、变化检测和地图更新系统
 
 content:
   # Page type to display. E.g. post, talk, publication...
