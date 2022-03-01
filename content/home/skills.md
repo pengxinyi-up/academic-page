@@ -30,15 +30,15 @@ feature:
   name: ROS
 - description: 熟悉ORB-SLAM系列vSLAM系统，了解多视图几何、刚体运动、状态估计和非线性优化等基础知识
   icon: draw-circle
-  icon_pack: fas
+  icon_pack: fab
   name: vSLAM
 - description: 
   icon: laptop-medical
-  icon_pack: fas
+  icon_pack: fab
   name: 待学习
 - description: 
   icon: suse
-  icon_pack: fas
+  icon_pack: fab
   name: 待学习
 - description: 不会运球，不会投球
   icon: basketball-ball
@@ -58,7 +58,7 @@ feature:
   name: 羽毛球
 - description: 另安全员紧张的蛙泳初学者
   icon: person-swimming
-  icon_pack: fas
+  icon_pack: fab
   name: 游泳
 - description: 记录生活爱好者
   icon: camera-retro
