@@ -68,4 +68,4 @@ categories:
 * Thanks for the great work: [find-object](https://github.com/introlab/find-object), [face_recognition](https://github.com/procrob/face_recognition)and[古月居](https://www.guyuehome.com/)
 * Video: [`Bilibili`](https://www.bilibili.com/video/BV1WK4y147Rw?spm_id_from=333.999.0.0)
 
-### [详细内容，点此链接可以去我的`CSDN博客`!](https://blog.csdn.net/qq_37372155/category_9650566.html) 
+### [详细内容，点此链接去我的`CSDN博客`!](https://blog.csdn.net/qq_37372155/category_9650566.html) 
