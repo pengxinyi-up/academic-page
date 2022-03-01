@@ -27,10 +27,10 @@ publishDate: "2017-09-01T00:00:00Z"
 # publication: In *天津*
 publication_short: In *河南大学*
 
-abstract: 大一利用寒暑假等课余时间，在河南大学自主创新实验室自学单片机制作简易智能车，学习使用Keil和Proteus。
+abstract: 学生干部
 
 # Summary. An optional shortened abstract.
-summary: 大一利用寒暑假等课余时间，在河南大学自主创新实验室自学单片机制作简易智能车，学习使用Keil和Proteus。
+summary: 学生干部
 
 tags: [学生干部]
 
@@ -54,7 +54,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Note: [**河南大学参赛队伍**](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/2019robot.jpg)'
+  caption: 'Note: [**组织知识竞赛**](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/2019robot.jpg)'
   focal_point: "这是啥"
   preview_only: false
 
