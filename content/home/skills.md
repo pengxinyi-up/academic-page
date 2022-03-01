@@ -33,12 +33,12 @@ feature:
   icon_pack: fab
   name: vSLAM
 - description: 
-  icon: "plus"
-  icon_pack: "custom"
+  icon: plus
+  icon_pack: fab
   name: 待学习
 - description: 
   icon: plus
-  icon_pack: "custom"
+  icon_pack: fab
   name: 待学习
 - description: 不会运球，不会投球
   icon: basketball-ball
