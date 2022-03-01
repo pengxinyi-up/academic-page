@@ -42,10 +42,10 @@ feature:
   name: 乒乓球
 
 # Uncomment to use emoji icons.
-- icon: ":smile:"
- icon_pack: "emoji"
- name: "Emojiness"
- description: "100%"  
+# - icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
