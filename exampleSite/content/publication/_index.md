@@ -1,5 +1,5 @@
 ---
-title: 实践经历
+title: 竞赛
 cms_exclude: true
 
 # View.
