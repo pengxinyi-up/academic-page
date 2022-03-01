@@ -30,11 +30,14 @@ image:
 
 authors:
 - admin
-- 彭心二
+- 陈果
+- 李帆
 
 tags:
-- SLAM
-- SLAM
+- 数据关联
+- 变化检测
+- 地图更新
+- vSLAM
 
 categories:
 - Demo
