@@ -33,7 +33,7 @@ feature:
   icon_pack: fab
   name: vSLAM
 - description: 
-  icon: plus
+  icon: "plus"
   icon_pack: "custom"
   name: 待学习
 - description: 
