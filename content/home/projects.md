@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: 项目
-subtitle: 尚无
+subtitle: 
 
 content:
   # Page type to display. E.g. project.
