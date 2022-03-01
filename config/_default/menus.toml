@@ -19,13 +19,13 @@
   weight = 30
 
 [[main]]
-  name = "其它"
-  url = "#talks"
+  name = "竞赛"
+  url = "#featured"
   weight = 40
 
 [[main]]
-  name = "竞赛"
-  url = "#featured"
+  name = "其它"
+  url = "#talks"
   weight = 50
 
 [[main]]
