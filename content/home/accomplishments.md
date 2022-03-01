@@ -36,7 +36,7 @@ item:
 - certificate_url: https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/images/tn.png
   date_end: "2021-09-01"
   date_start: "2020-09-01"
-  description: 研一获评华为优秀学生奖，和一等学业金学金
+  description: 研一获评华为优秀学生奖，一等学业金学金，优秀学生
   organization: 中南大学
   organization_url: "http://csu.edu.cn/"
   title: 华为优秀学生奖
