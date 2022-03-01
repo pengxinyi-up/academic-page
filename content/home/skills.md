@@ -28,11 +28,15 @@ feature:
   icon: robot
   icon_pack: fas
   name: ROS
-- description: 又菜又爱玩
+- description: 熟悉ORB-SLAM系列vSLAM系统，了解多视图几何、刚体运动、状态估计和非线性优化等基础知识
+  icon: fa-thin fa-draw-circle
+  icon_pack: fas
+  name: vSLAM
+- description: 不会运球，不会投球
   icon: basketball-ball
   icon_pack: fas
   name: 篮球
-- description: 吉他初学者
+- description: C调民谣吉他初学者
   icon: guitar
   icon_pack: fas
   name: 吉他
@@ -40,10 +44,18 @@ feature:
   icon: table-tennis
   icon_pack: fas
   name: 乒乓球
-- description: 玩的最久的一项运动
-  icon: table-tennis
+- description: 研究生期间重新玩起来的
+  icon: fa-thin fa-badminton
   icon_pack: fas
-  name: 乒乓球
+  name: 羽毛球
+- description: 另安全员紧张的蛙泳初学者
+  icon: fa-thin fa-badminton
+  icon_pack: fas
+  name: 游泳
+- description: 记录生活爱好者
+  icon: fa-thin fa-person-swimming
+  icon_pack: fas
+  name: 拍照
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
