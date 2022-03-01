@@ -32,6 +32,14 @@ feature:
   icon: draw-circle
   icon_pack: fas
   name: vSLAM
+- description: 
+  icon: 
+  icon_pack: fas
+  name: 
+- description: 
+  icon: 
+  icon_pack: fas
+  name: 
 - description: 不会运球，不会投球
   icon: basketball-ball
   icon_pack: fas
