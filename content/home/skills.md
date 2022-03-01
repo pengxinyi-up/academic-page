@@ -33,12 +33,12 @@ feature:
   icon_pack: fab
   name: vSLAM
 - description: 
-  icon: circle
-  icon_pack: fas
+  icon: plus
+  icon_pack: custom
   name: 待学习
 - description: 
-  icon: circle
-  icon_pack: fas
+  icon: plus
+  icon_pack: custom
   name: 待学习
 - description: 不会运球，不会投球
   icon: basketball-ball
@@ -57,8 +57,8 @@ feature:
   icon_pack: fab
   name: 羽毛球
 - description: 另安全员紧张的蛙泳初学者
-  icon: person-swimming
-  icon_pack: fas
+  icon: swimmer
+  icon_pack: custom
   name: 游泳
 - description: 记录生活爱好者
   icon: camera-retro
