@@ -34,11 +34,11 @@ feature:
   name: vSLAM
 - description: 
   icon: plus
-  icon_pack: custom
+  icon_pack: "custom"
   name: 待学习
 - description: 
   icon: plus
-  icon_pack: custom
+  icon_pack: "custom"
   name: 待学习
 - description: 不会运球，不会投球
   icon: basketball-ball
@@ -58,7 +58,7 @@ feature:
   name: 羽毛球
 - description: 另安全员紧张的蛙泳初学者
   icon: swimmer
-  icon_pack: custom
+  icon_pack: "custom"
   name: 游泳
 - description: 记录生活爱好者
   icon: camera-retro
