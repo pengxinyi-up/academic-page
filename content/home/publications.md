@@ -11,7 +11,7 @@ headless: true
 weight: 90
 
 title: 检索
-subtitle: "更多实践经历检索"
+subtitle: "发现更多"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -39,5 +39,9 @@ design:
 ---
 
 {{% callout note %}}
-快速发现相关内容&#x1F449 [在所有实践经历中检索](./publication/).
+快速发现相关内容&#x1F449 [在所有竞赛经历中检索](./publication/).
+{{% /callout %}}
+
+{{% callout note %}}
+快速发现相关内容&#x1F449 [在所有其它经历中检索](./talks/).
 {{% /callout %}}
