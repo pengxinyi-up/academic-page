@@ -47,16 +47,10 @@ Then, we propose a change detection method for autonomous updating of robot map.
 
 The contributions of this paper are as follows: 
 
-\begin{itemize}
-    \item{}
-    \item{}
-    \item{}
-\end{itemize}
-
 1. A lightweight data association method.  Using the spatial relation of map points and combining with the mutex table we proposed.  
 2. A lightweight change detection and map update method.  Object-level updates ensure the consistency and integrity of updates.  
 3. A real-time system.  For object-level semantic awareness tasks and low-cost hardware platform requirements, the unification of map building, change detection and update is realized. 
 4. Our method was deployed and extensively tested on a robot with a low-power embedded platform.  The validity, lightness and excellence of the method are proved.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://github.com/pengxinyi-up/academic-page/blob/master/images/fig_system-structure.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
