@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
 title: '其它'
 subtitle: "任职学生干部，参与社会实践志愿服务工作"

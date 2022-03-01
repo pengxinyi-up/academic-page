@@ -1,5 +1,5 @@
 ---
-title: 郑开国际马拉松志愿者
+title: 学生会干部
 
 event: Wowchemy Conference
 event_url: https://example.org

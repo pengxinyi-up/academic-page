@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 70
 
 title: 竞赛
 subtitle: "以赛促学，获得各类国家级、省级、校级学科竞赛奖项"
