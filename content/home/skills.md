@@ -54,7 +54,7 @@ feature:
   name: 乒乓球
 - description: 研究生期间重新玩起来的
   icon: badminton
-  icon_pack: fas
+  icon_pack: fab
   name: 羽毛球
 - description: 另安全员紧张的蛙泳初学者
   icon: person-swimming
