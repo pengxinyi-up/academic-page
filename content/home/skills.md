@@ -40,6 +40,10 @@ feature:
   icon: table-tennis
   icon_pack: fas
   name: 乒乓球
+- description: 玩的最久的一项运动
+  icon: table-tennis
+  icon_pack: fas
+  name: 乒乓球
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
