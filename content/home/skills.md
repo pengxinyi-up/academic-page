@@ -61,7 +61,7 @@ feature:
   icon_pack: fas
   name: 游泳
 - description: 记录生活爱好者
-  icon: person-swimming
+  icon: camera-retro
   icon_pack: fas
   name: 拍照
 
