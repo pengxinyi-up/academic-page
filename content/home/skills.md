@@ -53,12 +53,12 @@ feature:
   icon_pack: fas
   name: 乒乓球
 - description: 研究生期间重新玩起来的
-  icon: rocket
+  icon: map-pin
   icon_pack: fab
   name: 羽毛球
 - description: 另安全员紧张的蛙泳初学者
-  icon: swimmer
-  icon_pack: "custom"
+  icon: person-swimming
+  icon_pack: fab
   name: 游泳
 - description: 记录生活爱好者
   icon: camera-retro
