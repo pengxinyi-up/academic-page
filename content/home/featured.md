@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 实践经历
-subtitle: "以赛促学，获得各类国家级、省级、校级学科竞赛奖项，参与社会实践志愿服务工作"
+title: 竞赛
+subtitle: "以赛促学，获得各类国家级、省级、校级学科竞赛奖项"
 
 content:
   # Page type to display. E.g. post, talk, publication...
