@@ -37,8 +37,8 @@ tags:
 - 开源
 
 categories:
-- Demo
-- 教程
+- SLAM
+- 机器人
 ---
 
 ## Overview
