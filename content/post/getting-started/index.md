@@ -40,8 +40,8 @@ tags:
 - vSLAM
 
 categories:
-- Demo
-- 教程
+- 机器人
+- SLAM
 ---
 
 ## Overview
