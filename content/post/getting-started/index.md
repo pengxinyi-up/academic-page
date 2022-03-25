@@ -56,4 +56,15 @@ The contributions of this paper are as follows:
 3. A real-time system.  For object-level semantic awareness tasks and low-cost hardware platform requirements, the unification of map building, change detection and update is realized. 
 4. Our method was deployed and extensively tested on a robot with a low-power embedded platform.  The validity, lightness and excellence of the method are proved.
 
-{{< figure src="https://github.com/pengxinyi-up/academic-page/blob/master/images/fig_system-structure.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+<!-- {{< figure src="https://github.com/pengxinyi-up/academic-page/blob/master/images/fig_system-structure.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}} -->
+
+![hardware_system](https://raw.githubusercontent.com/pengxinyi-up/mobile-grab-Robot/master/photos/hardware_system.png "硬件系统") 
+
+## 展示视频
+### [详细内容，点此链接去我的`CSDN博客`!](https://blog.csdn.net/qq_37372155/category_9650566.html) 
+### [详细内容，点此链接去我的`CSDN博客`!](https://blog.csdn.net/qq_37372155/category_9650566.html) 
+
+
+## 展示海报
+![hardware_system](https://raw.githubusercontent.com/pengxinyi-up/mobile-grab-Robot/master/photos/hardware_system.png "硬件系统") 
+![hardware_system](https://raw.githubusercontent.com/pengxinyi-up/mobile-grab-Robot/master/photos/hardware_system.png "硬件系统") 
