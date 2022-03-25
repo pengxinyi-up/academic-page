@@ -59,12 +59,12 @@ The contributions of this paper are as follows:
 <!-- {{< figure src="https://github.com/pengxinyi-up/academic-page/blob/master/images/fig_system-structure.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}} -->
 
 ## 展示视频
-### [视频入口，简版3分钟（推荐）](https://www.bilibili.com/video/BV1mL4y1j7dV?spm_id_from=333.999.0.0) 
-### [视频入口，详细版12分钟!](https://www.bilibili.com/video/BV1oL4y1j75R?spm_id_from=333.999.0.0) 
+### [Bilibili，简版3分钟（推荐）](https://www.bilibili.com/video/BV1mL4y1j7dV?spm_id_from=333.999.0.0) 
+### [Bilibili，详细版12分钟!](https://www.bilibili.com/video/BV1oL4y1j75R?spm_id_from=333.999.0.0) 
 
 
 ## 展示海报
-![研电赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/EDC.png"研电赛") 
-![机器人大赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/robot.jpg"机器人大赛") 
+![研电赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/EDC.png "研电赛") 
+![机器人大赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/robot.jpg "机器人大赛") 
 
 
