@@ -64,7 +64,8 @@ The contributions of this paper are as follows:
 
 
 ## 展示海报
+![机器人大赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/robot.png "机器人大赛") 
 ![研电赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/EDC.png "研电赛") 
-![机器人大赛](https://raw.githubusercontent.com/pengxinyi-up/academic-page/master/content/post/getting-started/robot.jpg "机器人大赛") 
+
 
 
